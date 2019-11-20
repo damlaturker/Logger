@@ -1,0 +1,7 @@
+C:\Users\yagmur\Documents\Visual Studio 2017\Projects\Logging\Logging\bin\Debug\Logging.exe.config
+C:\Users\yagmur\Documents\Visual Studio 2017\Projects\Logging\Logging\bin\Debug\Logging.exe
+C:\Users\yagmur\Documents\Visual Studio 2017\Projects\Logging\Logging\bin\Debug\Logging.pdb
+C:\Users\yagmur\Documents\Visual Studio 2017\Projects\Logging\Logging\obj\Debug\Logging.csprojAssemblyReference.cache
+C:\Users\yagmur\Documents\Visual Studio 2017\Projects\Logging\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\Users\yagmur\Documents\Visual Studio 2017\Projects\Logging\Logging\obj\Debug\Logging.exe
+C:\Users\yagmur\Documents\Visual Studio 2017\Projects\Logging\Logging\obj\Debug\Logging.pdb
